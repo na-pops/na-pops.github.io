@@ -1,28 +1,25 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "NA-POPS: Point count Offsets for Population Sizes of North America landbirds"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "NA-POPS"                             
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Collaborators"
       icon: fa-user 
-      href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: collaborators.html    
+    - text: "Contribute"
+      icon: fa-github
+      href: contribute.html
   right:
-    - text: "Contact me"
+    - text: "Contact us"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:adam.smith2@canada.ca                     
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/na-pops       
 output:
   html_document:
     theme: cosmo

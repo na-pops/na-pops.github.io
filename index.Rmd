@@ -1,5 +1,20 @@
 ---
-title: "Welcome to my website!"
+title: "NA-POPS: Point count Offsets for Population Sizes of North America landbirds"
+bibliography: references.bib
 ---
 
-You're up and running!
+## Goals
+
+Our goal is to generate open-source detectability offsets for all species of landbirds in North America. These offsets will allow the quantitative integration of observations from different programs and field protocols (e.g., integrating observations from the North American Breeding Bird Survey with stationary counts from eBird).
+
+We are working to compile existing datasets of point counts conducted using field protocols that allow for distance sampling [@marques2011a] and/or removal-model [@farnsworth2002] based estimates of detectability.
+
+We aim to compile data representing the broadest possible array of species and field conditions from across North America. NA-POPS will contribute to improved estimates of continental and regional population sizes and population trends, and be useful for countless conservation, management, and research applications.  We will, of course, provide recognition for the data contributions that will make this work possible and formal acknowledgments in the resulting products.
+
+## Motivation
+
+Avian monitoring in North America is at a watershed moment. The North American Breeding Bird Survey has been gathering data for more than 50 years [@sauer2017], and the first broad-scale estimate of the total number of birds in the continent showed 3 billion have been lost since 1970 [@rosenberg2019]. The exponential growth in eBird participation has tapped a deep source of skilled volunteer survey effort [@sullivan2014], and channeled it into a tremendous resource for understanding bird movements and distributions across their annual cycle[@kelling2019]. In addition, a large body of research over the last 25 years has clearly demonstrated the complex challenges in drawing inference about density from observed counts of birds (e.g., [@simons2007]), but also provided methods to account imperfect detectability (e.g., [@farnsworth2002]). Finally, recent advances in data-integration and detectability estimation have shown that large collections of field data gathered using diverse methods can be combined to generate spatially explicit estimates of density across large areas ([@sólymos2020]).
+
+This watershed moment sets the stage for a broad-scale collaboration, to facilitate the integration of data across many surveys and programs. We will generate open-source detectability offsets for all species of landbirds in North America, in a range of common field conditions (road-side, off-road, forest, open habitat, etc.), which can be used as offsets or informative priors in other analyses (e.g., [@sólymos2013]). These estimates represent a first step towards the development of improved model-based continent-wide population estimates (e.g., [@sólymos2020a]), and eventually improved estimates of population trends. In addition, they will be useful in an array of research, conservation, or management applications, particularly those that can benefit from integrating data collected using varied field protocols and/or under varying observation conditions (e.g., integrating data from BBS and eBird).
+
+## 

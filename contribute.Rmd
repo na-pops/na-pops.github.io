@@ -8,7 +8,7 @@ title: "Contribute data to NA-POPS"
 
 Point counts conducted using field protocols that allow for distance sampling [@marques2011a] and/or removal-model [@farnsworth2002] based estimates of detectability.
 
-The data must be in a format that allows us to estimate the removal and/or distance sampling components, i.e., it must retain the time of observation or distance to bird, either continuous measures of time or distance, or binned-intervals or time or distance are acceptable.
+The data must be in a format that allows us to estimate the removal and/or distance sampling components, i.e., they must retain the time of observation and/or distance to bird. Our approach can handle both continuous measures of time or distance, or binned-intervals or time or distance, and any combination of time and distance. Even point count data that only include observations of birds separated into two distance bands (e.g., \<50m and \>50m) or two time intervals (e.g., 1-3 minutes and 3-5 minutes) are useful.
 
 #### Ancillary info
 
@@ -32,7 +32,7 @@ We have a particular interest in estimating detectability offsets that will allo
 
 To date, we have observations covering much of North America, but there are some notable gaps in our coverage in the Northeastern United States, Alaska, and Mexico (Yellow areas).
 
-![Square root of the number of counts by BCR-State-Province intersections](images/NA-POPS_data_count_map.png "Coverage Map")
+![Square root of the number of counts contributed to NA-POPS by BCR-State-Province intersections](images/NA-POPS_data_count_map.png "Coverage Map")
 
 ### Data use and security
 

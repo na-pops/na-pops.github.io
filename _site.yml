@@ -11,7 +11,7 @@ navbar:
       icon: fa-user 
       href: collaborators.html    
     - text: "Contribute"
-      icon: fa-github
+      icon: fa-user
       href: contribute.html
   right:
     - text: "Contact us"

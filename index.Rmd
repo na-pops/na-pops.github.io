@@ -17,4 +17,4 @@ Avian monitoring in North America is at a watershed moment. The North American B
 
 This watershed moment sets the stage for a broad-scale collaboration, to facilitate the integration of data across many surveys and programs. We will generate open-source detectability offsets for all species of landbirds in North America, in a range of common field conditions (road-side, off-road, forest, open habitat, etc.), which can be used as offsets or informative priors in other analyses (e.g., [@sólymos2013]). These estimates represent a first step towards the development of improved model-based continent-wide population estimates (e.g., [@sólymos2020a]), and eventually improved estimates of population trends. In addition, they will be useful in an array of research, conservation, or management applications, particularly those that can benefit from integrating data collected using varied field protocols and/or under varying observation conditions (e.g., integrating data from BBS and eBird).
 
-## 
+## References

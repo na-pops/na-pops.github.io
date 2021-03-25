@@ -11,8 +11,11 @@ navbar:
       icon: fa-user 
       href: collaborators.html    
     - text: "Contribute"
-      icon: fa-user
+      icon: fa-table
       href: contribute.html
+    - text: "Results Dashboard"
+      icon: fa-poll-h
+      href: https://cons.carleton.ca/napops-dashboard
   right:
     - text: "Contact us"
       icon: fa-envelope-o
